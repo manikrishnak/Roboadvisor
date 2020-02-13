@@ -2,8 +2,6 @@
 
 **Technology used:** Python, SQL, ML and finance analytics
 
-**White paper:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3517001
-
 Today we have many robo advisors in the market replacing the conventional financial advisors. Most of these robo-advisors deal in 
 index or mutual funds and rarely in stocks. This is where our product steps in to capitalize on this huge untapped potential. 
 
