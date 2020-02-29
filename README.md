@@ -2,7 +2,7 @@
 
 **Technology used:** Python, SQL, ML and finance analytics
 
-[Project White Paper](Portfolio_Robo_Advisor_White_paper_MSBA_2019.pdf)
+[Link to Project White Paper](Portfolio_Robo_Advisor_White_paper_MSBA_2019.pdf)
 
 Today we have many robo advisors in the market replacing the conventional financial advisors. Most of these robo-advisors deal in 
 index or mutual funds and rarely in stocks. This is where our product steps in to capitalize on this huge untapped potential. 
